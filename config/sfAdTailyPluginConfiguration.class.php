@@ -2,20 +2,17 @@
 
 /**
  * sfAdTailyPlugin configuration.
- * 
- * @package     sfAdTailyPlugin
- * @subpackage  config
- * @author      Your name here
- * @version     SVN: $Id: PluginConfiguration.class.php 17207 2009-04-10 15:36:26Z Kris.Wallsmith $
+ *
+ * @author      Tomasz Jakub Rup
  */
 class sfAdTailyPluginConfiguration extends sfPluginConfiguration
 {
-  const VERSION = '1.0.0-DEV';
+    const VERSION = '1.0.0-DEV';
 
-  /**
-   * @see sfPluginConfiguration
-   */
-  public function initialize()
-  {
-  }
+    /**
+     * @see sfPluginConfiguration
+     */
+    public function initialize()
+    {
+    }
 }
