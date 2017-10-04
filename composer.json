@@ -1,0 +1,19 @@
+{
+    "name": "tomasz-rup/sf-adtaily-plugin",
+    "type": "symfony1-plugin",
+    "description": "symfony 1.x plugin to add AdTaily integration",
+    "keywords": ["symfony1", "adtaily"],
+    "homepage": "https://github.com/tomi77/sfAdTailyPlugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomasz Jakub Rup",
+            "email": "tomasz.rup@gmail.com",
+            "role": "Creator"
+        }
+    ],
+    "require": {
+        "symfony/symfony1": "*",
+        "composer/installers": "*"
+    }
+}
