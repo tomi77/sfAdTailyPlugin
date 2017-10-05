@@ -9,7 +9,7 @@ The `sfAdTailyPlugin` offers the integrate with [AdTaily](http://www.adtaily.com
   * Install the plugin:
 
     ~~~sh
-    $ symfony plugin:install sfAdTailyPlugin
+    $ composer require tomasz-rup/sf-adtaily-plugin
     ~~~
 
   * Activate helper:
