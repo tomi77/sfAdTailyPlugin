@@ -3,7 +3,6 @@
     "type": "symfony1-plugin",
     "description": "symfony 1.x plugin to add AdTaily integration",
     "keywords": ["symfony1", "adtaily"],
-    "homepage": "https://github.com/tomi77/sfAdTailyPlugin",
     "license": "MIT",
     "authors": [
         {
@@ -12,6 +11,10 @@
             "role": "Creator"
         }
     ],
+    "support": {
+      "issues": "https://github.com/tomi77/sfAdTailyPlugin/issues",
+      "source": "https://github.com/tomi77/sfAdTailyPlugin"
+    },
     "require": {
         "symfony/symfony1": "*",
         "composer/installers": "*"
